@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# Parses
 
 mkdir -p txt
 
